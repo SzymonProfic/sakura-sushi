@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"name": "sakura-sushi",
+			"path": "."
+		},
+		{
+			"name": "sakura-favicon",
+			"path": "../../Downloads/sakura-favicon"
+		}
+	],
+    "settings": {}
+}
